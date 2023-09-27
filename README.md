@@ -14,5 +14,5 @@
     2. [Scripts](Estadistica_Inferencial/Tarea_02/Notebooks)
 * ### Tarea No. 3:
   1. [Soluciones](Estadistica_Inferencial/Tarea_03/Tarea_3_Juan_Monsivais.pdf)
-  2. [Scripts](Estadistica_Inferencial/Tarea_03/Scripts)
+  2. [Scripts](Estadistica_Inferencial/Tarea_03/Codigos_Tarea_3_Juan_Monsivais)
      

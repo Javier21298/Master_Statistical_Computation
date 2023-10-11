@@ -15,4 +15,8 @@
 * ### Tarea No. 3:
   1. [Soluciones](Estadistica_Inferencial/Tarea_03/Tarea_3_Juan_Monsivais.pdf)
   2. [Scripts](Estadistica_Inferencial/Tarea_03/Codigos_Tarea_3_Juan_Monsivais)
+
+* ### Tarea No. 4:
+  1. [Soluciones](Estadistica_Inferencial/Tarea_04/Tarea_4_Juan_Monsivais.pdf)
+  2. [Scripts](Estadistica_Inferencial/Tarea_04/Codigos_Tarea_4_Juan_Monsivais)
      
